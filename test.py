@@ -13,9 +13,9 @@ import time, os
 # SELECTED_USER_EMAIL = os.getenv("SELECTED_USER_EMAIL")
 URL="http://135.181.68.196:6040"
 
-USER_EMAIL = 'ahmed.akram@logicps.com'
-USER_PASSWORD = 'Apple0175#'
-SELECTED_USER_EMAIL = "ahmed.akram@logicps.com"
+USER_EMAIL = ''
+USER_PASSWORD = ''
+SELECTED_USER_EMAIL = ""
 
 
 chrome_options = webdriver.ChromeOptions() 
